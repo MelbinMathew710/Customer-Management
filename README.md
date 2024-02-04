@@ -6,9 +6,7 @@ This project is a Customer Management System implemented in Spring Boot using My
 
 ## Table of Contents
 1. [How to Run the Project](#how-to-run-the-project)
-2. [Setup the Database](#setup-the-database)
-3. [Hosted URL](#hosted-url)
-4. [API Documentation](#api-documentation)
+2. [API Documentation](#api-documentation)
 
 ---
 
